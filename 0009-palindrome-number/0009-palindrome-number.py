@@ -11,10 +11,5 @@ class Solution(object):
             dig = x % 10
             rev = rev * 10 + dig 
             x //= 10
-            
+
         return rev == temp
-        
-        # if (rev == temp):
-        #     is_palindrome = True
-        
-        # return is_palindrome
