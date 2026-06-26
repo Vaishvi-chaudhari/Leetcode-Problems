@@ -7,9 +7,9 @@ class Solution(object):
         temp = x
         rev = 0
         is_palindrome = False
-        while x > 0:
-            dig = x % 10
+        while temp > 0:
+            dig = temp % 10
             rev = rev * 10 + dig 
-            x //= 10
+            temp //= 10
 
-        return rev == temp
+        return rev == x
