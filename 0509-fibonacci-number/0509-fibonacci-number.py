@@ -4,6 +4,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        if n == 0 or n == 1:
-            return n
+        if n == 0:
+            return 0
+        if n == 1:
+            return 1
         return self.fib(n-1) + self.fib(n-2)
