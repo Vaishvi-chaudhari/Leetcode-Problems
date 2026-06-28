@@ -4,10 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        n = len(nums)
         ans = []
         ans.append(nums[0])
         
-        for i in range(1, len(nums)):
+        for i in range(1, n):
             prefixsum = ans[i-1] + nums[i]
             ans.append(prefixsum)
         return ans
