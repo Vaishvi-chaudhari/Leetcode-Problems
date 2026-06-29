@@ -8,7 +8,6 @@ class Solution(object):
         profit = 0
 
         for i in range(1, len(prices)):
-            # curr_price = prices[i]
             curr_profit = prices[i] - min_price
             if curr_profit > profit:
                 profit = curr_profit
