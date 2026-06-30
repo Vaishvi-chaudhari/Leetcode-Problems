@@ -6,10 +6,9 @@ class Solution(object):
         """
         curr_ones = 0
         max_ones = 0
-        n = len(nums)
 
-        for i in range(n):
-            if nums[i] == 1:
+        for n in nums:
+            if n == 1:
                 curr_ones += 1
                 max_ones = max(curr_ones, max_ones)
             else:
