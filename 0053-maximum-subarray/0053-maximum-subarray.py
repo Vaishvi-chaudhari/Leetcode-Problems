@@ -7,8 +7,8 @@ class Solution(object):
         curr_sum = 0
         max_sum = nums[0]
 
-        for i in range(len(nums)):
-            curr_sum += nums[i]
+        for n in nums:
+            curr_sum += n
             if curr_sum > max_sum:
                 max_sum = curr_sum
 
