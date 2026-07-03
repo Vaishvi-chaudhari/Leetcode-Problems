@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1683-invalid-tweets) |
