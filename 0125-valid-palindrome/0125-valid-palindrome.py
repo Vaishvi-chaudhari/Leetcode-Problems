@@ -1,24 +1,29 @@
 class Solution(object):
+    def isAlphaNumeric(self, s):
+        x = ord(s)
+        if 97<=x<=122 or 65<=x<=90 or 48<=x<=57:
+            return True
+        return False
+
     def isPalindrome(self, s):
         """
         :type s: str
         :rtype: bool
         """
-        left = 0
-        right = len(s) - 1
+        s = s.lower()
+        l = 0
+        r = len(s) - 1
 
-        while left < right:
+        while l < r:
+            if not self.isAlphaNumeric(s[l]):
+                l+=1
+            elif not self.isAlphaNumeric(s[r]):
+                r-=1
 
-            while left < right and not s[left].isalnum():
-                left += 1
-
-            while left < right and not s[right].isalnum():
-                right -= 1
-
-            if s[left].lower() != s[right].lower():
+            elif s[l] == s[r]:
+                l+=1
+                r-=1
+            
+            else:
                 return False
-
-            left += 1
-            right -= 1
-
         return True
