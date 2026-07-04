@@ -19,7 +19,6 @@ class Solution(object):
                 l+=1
             elif not self.isAlphaNumeric(s[r]):
                 r-=1
-
             elif s[l] == s[r]:
                 l+=1
                 r-=1
