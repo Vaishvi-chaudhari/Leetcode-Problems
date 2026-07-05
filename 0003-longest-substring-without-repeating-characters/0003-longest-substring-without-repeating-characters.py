@@ -11,5 +11,6 @@ class Solution(object):
                 if s[j] in temp:
                     break
                 temp += s[j]
-                max_len = max(max_len, len(temp))
+                if len(temp) > max_len:
+                    max_len = len(temp)
         return max_len
