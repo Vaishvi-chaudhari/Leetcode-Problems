@@ -4,17 +4,15 @@ class Solution(object):
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
         """
-        i = 0
-        j = len(s) - 1
+        l = 0
+        r = len(s) - 1
 
+        while l<r:
+            temp = s[l]
+            s[l] = s[r]
+            s[r] = temp
 
-        while i < j:
-            # swap i and j to reverse a string - 
-            temp = s[i]
-            s[i] = s[j]
-            s[j] = temp
-
-            i+=1
-            j-=1
-        
+            l+=1
+            r-=1
+            
         return s
