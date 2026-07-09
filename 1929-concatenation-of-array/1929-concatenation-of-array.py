@@ -5,8 +5,6 @@ class Solution(object):
         :rtype: List[int]
         """
         ans = nums
-        n = len(nums)
-
-        for i in range(n):
+        for i in range(len(nums)):
             ans.append(nums[i])
         return ans
