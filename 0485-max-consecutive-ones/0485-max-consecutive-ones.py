@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        curr_ones = 0
         max_ones = 0
+        curr_ones = 0
 
         for n in nums:
             if n == 1:
