@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -97,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
