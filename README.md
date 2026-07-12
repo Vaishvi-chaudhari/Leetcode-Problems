@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
@@ -230,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
