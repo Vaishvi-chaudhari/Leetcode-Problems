@@ -4,21 +4,38 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        nums.sort()
-        n = len(nums)
-        ans = []
-        count = 1
+        candidate1 = candidate2 = None
+        count1 = count2 = 0
 
-        for i in range(1, n):
-            if nums[i] == nums[i - 1]:
-                count += 1
+        # First Pass: Find Candidates
+        for num in nums:
+            if candidate1 == num:
+                count1 += 1
+            elif candidate2 == num:
+                count2 += 1
+            elif count1 == 0:
+                candidate1 = num
+                count1 = 1
+            elif count2 == 0:
+                candidate2 = num
+                count2 = 1
             else:
-                if count > n // 3:
-                    ans.append(nums[i - 1])
-                count = 1
+                count1 -= 1
+                count2 -= 1
 
-        # Check last element
-        if count > n // 3:
-            ans.append(nums[-1])
+        # Second Pass: Verify Candidates
+        count1 = count2 = 0
+        for num in nums:
+            if num == candidate1:
+                count1 += 1
+            elif num == candidate2:
+                count2 += 1
+
+        ans = []
+        if count1 > len(nums) // 3:
+            ans.append(candidate1)
+
+        if count2 > len(nums) // 3:
+            ans.append(candidate2)
 
         return ans
