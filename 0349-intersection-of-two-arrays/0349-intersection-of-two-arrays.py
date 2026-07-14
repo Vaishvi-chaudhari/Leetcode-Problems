@@ -5,11 +5,5 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        s = set(nums1)
-        ans = set()
-
-        for num in nums2:
-            if num in s:
-                ans.add(num)
-
+        ans = set(nums1) & set(nums2)
         return list(ans)
