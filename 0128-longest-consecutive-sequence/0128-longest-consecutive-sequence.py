@@ -4,23 +4,37 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        curr_len = {}
-        max_len = 0
+        # curr_len = {}
+        # max_len = 0
 
-        for num in nums:
-            if num in curr_len:
-                continue
+        # for num in nums:
+        #     if num in curr_len:
+        #         continue
 
-            left = curr_len.get(num - 1, 0)
-            right = curr_len.get(num + 1, 0)
+        #     left = curr_len.get(num - 1, 0)
+        #     right = curr_len.get(num + 1, 0)
 
-            total = left + right + 1
+        #     total = left + right + 1
 
-            curr_len[num] = total
-            curr_len[num - left] = total
-            curr_len[num + right] = total
+        #     curr_len[num] = total
+        #     curr_len[num - left] = total
+        #     curr_len[num + right] = total
 
-            if total > max_len:
-                max_len = total
-            # max_len = max(max_len, total)
-        return max_len
+        #     if total > max_len:
+        #         max_len = total
+        #     # max_len = max(max_len, total)
+        # return max_len
+
+        num_set = set(nums)
+        longest = 0
+
+        for num in num_set:
+            if num - 1 not in num_set:
+                current = num
+                length = 1
+
+                while current + 1 in num_set:
+                    current += 1
+                    length += 1
+                longest = max(longest, length)
+        return longest
