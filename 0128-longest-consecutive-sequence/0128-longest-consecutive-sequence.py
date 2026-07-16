@@ -20,5 +20,7 @@ class Solution(object):
             curr_len[num - left] = total
             curr_len[num + right] = total
 
-            max_len = max(max_len, total)
+            if total > max_len:
+                max_len = total
+            # max_len = max(max_len, total)
         return max_len
