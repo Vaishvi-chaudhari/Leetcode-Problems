@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 ## Recursion
 |  |
 | ------- |
