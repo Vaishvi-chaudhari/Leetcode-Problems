@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2895-minimum-processing-time](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [2895-minimum-processing-time](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
