@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
