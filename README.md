@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
