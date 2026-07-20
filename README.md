@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
