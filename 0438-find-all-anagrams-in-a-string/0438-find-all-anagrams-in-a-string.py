@@ -1,0 +1,27 @@
+class Solution(object):
+    def findAnagrams(self, s, p):
+        """
+        :type s: str
+        :type p: str
+        :rtype: List[int]
+        """
+        n = len(s)
+        m = len(p)
+        if m > n:
+            return []
+
+        p_count = [0] * 26
+        window = [0] * 26
+        for ch in p:
+            p_count[ord(ch) - ord('a')] += 1
+
+        ans = []
+        for i in range(n):
+            window[ord(s[i]) - ord('a')] += 1
+            if i >= m:
+                window[ord(s[i - m]) - ord('a')] -= 1
+
+            if window == p_count:
+                ans.append(i - m + 1)
+
+        return ans
