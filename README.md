@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
