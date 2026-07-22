@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2896-apply-operations-to-make-two-strings-equal) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0394-decode-string) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
