@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2896-apply-operations-to-make-two-strings-equal) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0394-decode-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## String Matching
 |  |
 | ------- |
