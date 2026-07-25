@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |
