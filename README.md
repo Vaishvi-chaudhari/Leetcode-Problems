@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0290-word-pattern) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
 ## Monotonic Stack
 |  |
@@ -461,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
