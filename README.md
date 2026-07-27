@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
