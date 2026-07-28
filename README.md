@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0041-first-missing-positive) |
