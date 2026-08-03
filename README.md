@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
 |  |
