@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0075-sort-colors) |
