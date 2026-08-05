@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
