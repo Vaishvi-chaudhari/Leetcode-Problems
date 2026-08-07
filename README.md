@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 ## Tree
 |  |
 | ------- |
@@ -554,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
