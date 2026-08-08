@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -571,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
