@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
