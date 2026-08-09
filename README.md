@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0093-restore-ip-addresses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 ## Tree
