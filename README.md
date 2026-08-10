@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0229-majority-element-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0283-move-zeroes) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
@@ -580,10 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Breadth-First Search
 |  |
 | ------- |
