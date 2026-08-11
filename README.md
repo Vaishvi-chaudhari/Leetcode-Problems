@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2895-minimum-processing-time](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2895-minimum-processing-time) |
 ## Counting Sort
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Database
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -512,11 +516,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -589,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -601,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0139-word-break) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
