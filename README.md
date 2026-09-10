@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 ## Bidirectional Search
 |  |
@@ -662,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
