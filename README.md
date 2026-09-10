@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 ## Bidirectional Search
 |  |
@@ -669,4 +672,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
