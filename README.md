@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -673,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0101-symmetric-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
