@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Queue
 |  |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0912-sort-an-array) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0704-binary-search) |
