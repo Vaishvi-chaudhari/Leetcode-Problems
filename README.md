@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 ## Quickselect
 |  |
 | ------- |
@@ -697,4 +699,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0528-random-pick-with-weight) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
