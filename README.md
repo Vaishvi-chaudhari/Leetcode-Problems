@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1695-maximum-erasure-value) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1201-ugly-number-iii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
@@ -734,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
