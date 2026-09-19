@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0101-symmetric-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -762,4 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
