@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0525-contiguous-array) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## String Matching
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
