@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## String Matching
 |  |
