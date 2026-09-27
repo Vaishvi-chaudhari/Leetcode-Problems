@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0097-interleaving-string) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0179-largest-number) |
