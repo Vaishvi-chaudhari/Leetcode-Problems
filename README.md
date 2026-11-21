@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0394-decode-string) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/Vaishvi-chaudhari/Leetcode-Problems/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
